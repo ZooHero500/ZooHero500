@@ -76,26 +76,6 @@ fun_fact: "I build things that think, talk, and create."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZooHero500&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" />
 </div>
 
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ZooHero500/nanoclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZooHero500&repo=nanoclaw&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/ZooHero500/cc-sdd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZooHero500&repo=cc-sdd&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/ZooHero500/dramar-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZooHero500&repo=dramar-frontend&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/ZooHero500/moyin-creator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZooHero500&repo=moyin-creator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-</a>
-
-</div>
-
 <!-- Snake Animation -->
 <div align="center">
   <picture>
