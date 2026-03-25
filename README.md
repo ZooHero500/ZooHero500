@@ -26,6 +26,15 @@ current_focus:
 fun_fact: "I build things that think, talk, and create."
 ```
 
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZooHero500/ZooHero500/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZooHero500/ZooHero500/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ZooHero500/ZooHero500/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
@@ -74,15 +83,6 @@ fun_fact: "I build things that think, talk, and create."
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZooHero500&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZooHero500/ZooHero500/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZooHero500/ZooHero500/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ZooHero500/ZooHero500/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <!-- Footer -->
